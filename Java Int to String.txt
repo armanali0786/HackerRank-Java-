@@ -1,0 +1,6 @@
+
+
+   //Write your code here
+     String s = Integer.toString(n);
+    //  Integer obj = new Integer(n);
+    // String str = obj.toString(s);
